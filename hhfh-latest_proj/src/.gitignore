@@ -1,0 +1,4 @@
+publish/setup.exe
+*.exe
+bin/
+obj/
